@@ -22,7 +22,6 @@
 @@||mads-eu.amazon.com^$important
 @@||msh.amazon.co.uk^$important
 # Samsung
-@@||aibixby.com^$important
 @@||*.samsung.com^$important
 @@||*.samsungcloud.com^$important
 @@||*.samsungosp.com^$important
@@ -30,14 +29,6 @@
 @@||samsungrs.com^$important
 @@||*.samsungdm.com^$important
 @@||*.samsungsds.com^$important
-@@||samsung-omc.com^$important
-@@||samsungapps.com^$important
-@@||ssamsungdiroute.net^$important
-@@||samsungdive.com^$important
-@@||samsungdmroute.com^$important
-@@||samsungmdec.com^$important 
-@@||samsungvisioncloud.com^$importan
-@@||sbixby.com^$importan
 # Wartungstools
 @@||www.rustdesk.com^$important
 @@||rustdesk.com^$important
