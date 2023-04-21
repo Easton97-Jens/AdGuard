@@ -26,6 +26,7 @@
 @@||samsung.com^$important
 @@||samsungrs.com^$important
 @@||*.samsungdm.com^$important
+@@||*.samsungsds.com^$important
 # Wartungstools
 @@||www.rustdesk.com^$important
 @@||rustdesk.com^$important
