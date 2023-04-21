@@ -33,4 +33,4 @@
 # google
 @@||www.google.com^$important
 #facebook
-@@||mqtt-mini.facebook.com^$important
+@@||*.facebook.com^$important
