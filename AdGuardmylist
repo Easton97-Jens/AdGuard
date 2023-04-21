@@ -21,10 +21,11 @@
 @@||mads-eu.amazon.com^$important
 @@||msh.amazon.co.uk^$important
 # Samsung
-@@||capi.samsungcloud.com^$important
-@@||eu-auth2.samsungosp.com^$important
+@@||*.samsungcloud.com^$important
+@@||*.samsungosp.com^$important
 @@||samsung.com^$important
 @@||samsungrs.com^$important
+@@||*.samsungdm.com^$important
 # Wartungstools
 @@||www.rustdesk.com^$important
 @@||rustdesk.com^$important
