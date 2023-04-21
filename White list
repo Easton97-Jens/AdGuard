@@ -32,3 +32,5 @@
 @@||*.ea.com^$important
 # google
 @@||www.google.com^$important
+#facebook
+@@||mqtt-mini.facebook.com^$important
