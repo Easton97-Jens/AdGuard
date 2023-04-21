@@ -1,2 +1,3 @@
 # AdGuard 
-White list selst angelegt
+White list selbst angelegt
+über verbesserungen würde ich mich freuen
