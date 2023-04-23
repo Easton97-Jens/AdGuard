@@ -38,3 +38,5 @@
 @@||www.google.com^$important
 #facebook
 @@||*.facebook.com^$important
+#dns
+@@||*.cloudflare-dns.com^$important
