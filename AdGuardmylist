@@ -16,6 +16,9 @@
 @@||barmer.de^$important
 # Dyndns
 @@||ipv64.net^$important
+#DNS
+@@||a.nel.cloudflare.com^$important
+@@||chrome.cloudflare-dns.com^$important
 # Hetzner
 @@||u345688.your-storagebox.de^$important
 # Amazon
@@ -38,5 +41,6 @@
 @@||www.google.com^$important
 #facebook
 @@||*.facebook.com^$important
-#dns
-@@||*.cloudflare-dns.com^$important
+@@||scontent-fra5-2.xx.fbcdn.net^$important
+#Email
+@@||incoming-telemetry.thunderbird.net^$important
