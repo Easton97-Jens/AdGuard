@@ -41,6 +41,7 @@
 #facebook
 @@||*.facebook.com^$important
 @@||scontent-fra5-2.xx.fbcdn.net^$important
+@@||*.whatsapp.net^$important
 #Email
 @@||incoming-telemetry.thunderbird.net^$important
 #Android
