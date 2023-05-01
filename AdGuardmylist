@@ -9,9 +9,14 @@
 @@||*.asus.com^$important
 # Virenscanner
 @@||bitdefender.sc.omtrdc.net^$important
-# Vdio
-@@||youtube.com^$important
-@@||*.youtube.com^$important
+# Filme
+@@||appconfigs.disney-plus.net^$important
+@@||disney.content.edge.bamgrid.com^$important
+@@||prod-ripcut-delivery.disney-plus.net^$important
+@@||disney.api.edge.bamgrid.com^$important
+@@||bam-sdk-configs.bamgrid.com^$important
+@@||*.disney-plus.net^$important
+@@||*.disneyplus.com^$important
 @@||push.prod.netflix.com^$important
 # Barmer
 @@||barmer.de^$important
