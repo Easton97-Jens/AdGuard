@@ -25,11 +25,16 @@
 #DNS
 @@||a.nel.cloudflare.com^$important
 @@||chrome.cloudflare-dns.com^$important
+@@||d2rb0pbfo03ng2.cloudfront.net^$important
 # Hetzner
 @@||u345688.your-storagebox.de^$important
 # Amazon
+@@||device-metrics-us-2.amazon.com^$important
+@@||www.amazon.de^$important
 @@||mads-eu.amazon.com^$important
 @@||msh.amazon.co.uk^$important
+@@||*.amazon.de^$important
+@@||abzq7aq4866p.eu.api.amazonvideo.com^$important
 # Samsung
 @@||*.samsung.com^$important
 @@||*.samsungcloud.com^$important
@@ -75,11 +80,15 @@
 @@|android.apis.google.com^$important
 @@|android.clients.google.com^$important
 @@||time.android.com^$important
+@@|bdwm.be^$important
+@@|clipsync.bdwm.be^$important
+@@|www.simplemobiletools.com^$important
 #Google
 @@|accounts.google.com^$important
 @@|addons-pa.clients*.google.com^$important
 @@|adssettings.google.com^$important
 @@|code.google.com^$important
+@@||*.gvt1.com^$important
 #googleapis
 @@|*.googleapis.com^$important
 @@|googleapis.com^$important
