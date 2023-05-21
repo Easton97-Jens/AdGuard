@@ -11,6 +11,10 @@
 @@||bitdefender.sc.omtrdc.net^$important
 # Filme
 @@||push.prod.netflix.com^$important
+# music
+@@||spclient.wg.spotify.com^$important
+#Solar PV
+@@||*.solarmanpv.com^$important
 # Barmer
 @@||barmer.de^$important
 # Dyndns
