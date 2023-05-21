@@ -10,13 +10,6 @@
 # Virenscanner
 @@||bitdefender.sc.omtrdc.net^$important
 # Filme
-@@||appconfigs.disney-plus.net^$important
-@@||disney.content.edge.bamgrid.com^$important
-@@||prod-ripcut-delivery.disney-plus.net^$important
-@@||disney.api.edge.bamgrid.com^$important
-@@||bam-sdk-configs.bamgrid.com^$important
-@@||*.disney-plus.net^$important
-@@||*.disneyplus.com^$important
 @@||push.prod.netflix.com^$important
 # Barmer
 @@||barmer.de^$important
@@ -25,9 +18,19 @@
 #DNS
 @@||a.nel.cloudflare.com^$important
 @@||chrome.cloudflare-dns.com^$important
+@@||chrome.cloudflare-dns.com^$important
 @@||d2rb0pbfo03ng2.cloudfront.net^$important
 # Hetzner
 @@||u345688.your-storagebox.de^$important
+#disney
+@@||*.disney-plus.net^$important
+@@||*.disneyplus.com^$important
+@@||appconfigs.disney-plus.net^$important
+@@||disney.content.edge.bamgrid.com^$important
+@@||disney.api.edge.bamgrid.com^$important
+@@||prod-ripcut-delivery.disney-plus.net^$important
+@@||disney.playback.edge.bamgrid.com^$important
+@@||disney.connections.edge.bamgrid.com^$important
 # Amazon
 @@||device-metrics-us-2.amazon.com^$important
 @@||www.amazon.de^$important
@@ -35,6 +38,8 @@
 @@||msh.amazon.co.uk^$important
 @@||*.amazon.de^$important
 @@||abzq7aq4866p.eu.api.amazonvideo.com^$important
+@@||mads.amazon-adsystem.com^$important
+@@||*.cloudfront.net^$important
 # Samsung
 @@||*.samsung.com^$important
 @@||*.samsungcloud.com^$important
@@ -83,6 +88,11 @@
 @@|bdwm.be^$important
 @@|clipsync.bdwm.be^$important
 @@|www.simplemobiletools.com^$important
+@@||appassets.androidplatform.net^$important
 #Bezahlen
 @@|pay.google.com^$important
 @@|payments.google.com^$important
+#Google
+@@||*.googleapis.com^$important
+@@|google.com^$important
+@@|www.google.com^$important
