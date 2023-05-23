@@ -12,8 +12,12 @@
 # PC Hersteller
 @@||msi.com^$important
 @@||*.asus.com^$important
+#win
+@@||ctldl.windowsupdate.com^$important
+@@||client.wns.windows.com^$important
 # Virenscanner
 @@||bitdefender.sc.omtrdc.net^$important
+@@||dns.bitdefender.net^$important
 @@||www.rustdesk.com^$important
 @@||rustdesk.com^$important
 # Filme
@@ -63,6 +67,7 @@
 @@||samsungrs.com^$important
 @@||*.samsungdm.com^$important
 @@||*.samsungsds.com^$important
+@@||samsung-callerprofile.edge.hiyaapi.com^$important
 # Netflix
 @@||api-global.netflix.com^$important
 @@||ichnaea.netflix.com^$important
@@ -83,6 +88,10 @@
 # Sonos
 @@||msmetrics.ws.sonos.com^$important
 # Amazon Prime Video and Amazon CDN
+@@||dp-gw-na.amazon.com^$important
+@@||api.eu-west-1.aiv-delivery.net^$important
+@@||aax-eu.amazon-adsystem.com^$important
+@@||*.us-east-1.prod.service.minerva.devices.a2z.com^$important
 @@||eu.api.amazonvideo.com^$important
 @@||device-metrics-us.amazon.com^$important
 @@||fls-eu.amazon.com^$important
@@ -90,12 +99,12 @@
 @@||cloudfront.net^$important
 @@||device-metrics-us-2.amazon.com^$important
 @@||images-amazon.com^$important
-@@||amazonaws.com^$important# Wartungstools
+@@||amazonaws.com^$important
 @@||www.amazon.de^$important
 @@||mads-eu.amazon.com^$important
 @@||msh.amazon.co.uk^$important
 @@||*.amazon.de^$important
-@@||abzq7aq4866p.eu.api.amazonvideo.com^$important
+@@||*.eu.api.amazonvideo.com^$important
 @@||mads.amazon-adsystem.com^$important
 @@||*.cloudfront.net^$important
 # Game
