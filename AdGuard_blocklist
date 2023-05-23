@@ -1,0 +1,251 @@
+0.0.0.0 cdn.appround.biz
+0.0.0.0 cdn.download.sweetpacks.com
+0.0.0.0 cdn.insta.playbryte.com
+0.0.0.0 cdn.msdwnld.com
+0.0.0.0 cdn.mypcbackup.com
+0.0.0.0 inno.bisrv.com
+0.0.0.0 installer.betterinstaller.com
+0.0.0.0 nsis.bisrv.com
+0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
+ccmwigksgiwwke.xyz
+cnkapolr.xyz
+jpfwbamawhkus.xyz
+jtqejhfy.xyz
+khdguudttddxe.xyz
+lugjdylyqc.xyz
+rwgyxqmfbhamol.xyz
+tnfranfxmg.xyz
+www.ccmwigksgiwwke.xyz
+www.cnkapolr.xyz
+www.jpfwbamawhkus.xyz
+www.jtqejhfy.xyz
+www.khdguudttddxe.xyz
+www.lugjdylyqc.xyz
+www.rwgyxqmfbhamol.xyz
+www.tnfranfxmg.xyz
+dallianceclubs.life
+realgift.life
+www.dallianceclubs.life
+www.realgift.life
+cnvlink.com
+game.gppbet.com
+ggcasino.site
+m.bison.partners
+okebet168.com
+www.cnvlink.com
+www.game.gppbet.com
+www.ggcasino.site
+www.m.bison.partners
+www.okebet168.com
+0.0.0.0 ads.viber.com
+0.0.0.0 ads-d.viber.com
+0.0.0.0 ads.aws.viber.com
+0.0.0.0 adcs.rqmob.com
+0.0.0.0 preitem.wshareit.com
+0.0.0.0 mobimagic.com
+0.0.0.0 adywind.com
+0.0.0.0 hasmobi.net
+0.0.0.0 api-a.op-mobile.opera.com
+0.0.0.0 promotion.polarisoffice.com
+0.0.0.0 newad.ifeng.com
+0.0.0.0 afreeca-tag.ad-mapps.com
+0.0.0.0 mtag.mman.kr
+0.0.0.0 etl.tindersparks.com
+0.0.0.0 d27tpsznug51gz.cloudfront.net
+0.0.0.0 sensors.larkplayerapp.com
+0.0.0.0 sensors.snaptubeapp.com
+0.0.0.0 log.kajicam.com
+0.0.0.0 cdn.appround.biz
+0.0.0.0 cdn.download.sweetpacks.com
+0.0.0.0 cdn.insta.playbryte.com
+0.0.0.0 cdn.msdwnld.com
+0.0.0.0 cdn.mypcbackup.com
+0.0.0.0 inno.bisrv.com
+0.0.0.0 installer.betterinstaller.com
+0.0.0.0 nsis.bisrv.com
+0.0.0.0 tracking.opencandy.com.s3.amazonaws.com
+
+adultporn.me
+animalporn.me
+chinaporns.com
+hd-porn.video
+orngur.com
+porm.club
+sonmompornincestxxx.com
+www.iwankwank.com
+www.lusthero.com
+www.maxiporn.com
+www.porn-hub.live
+i.pximg.net
+imp.pixiv.net
+pixiv.net
+s.pximg.net
+www.pixiv.net
+^ad([sxv]?[0-9]*|system)[_.-]([^.[:space:]]+\.){1,}|[_.-]ad([sxv]?[0-9]*|system)[_.-]
+^(.+[_.-])?adse?rv(er?|ice)?s?[0-9]*[_.-]
+^(.+[_.-])?telemetry[_.-]
+^adim(age|g)s?[0-9]*[_.-]
+^adtrack(er|ing)?[0-9]*[_.-]
+^advert(s|is(ing|ements?))?[0-9]*[_.-]
+^aff(iliat(es?|ion))?[_.-]
+^analytics?[_.-]
+^banners?[_.-]
+^beacons?[0-9]*[_.-]
+^count(ers?)?[0-9]*[_.-]
+^mads\.
+^pixels?[-.]
+^stat(s|istics)?[0-9]*[_.-]
+||aeon.co/_next/static/chunks/SupportBannerHeader.
+||api.qwant.com/*/homepage/trends?
+||designtaxi.com/css/remodal.css
+||feedback.wwe.com/survey/
+||freedownloadmanager.org/ajax/on_exit_v2.php
+||freedownloadmanager.org/js/th_win_
+||google.com^*/friendconnect.js
+||jobs.mobilemarketingreads.com^
+||js.dhresource.com/survey/$domain=dhgate.com
+||neighbourly.co.nz/stuff/
+||newegg.com/newegg/survey/
+||planelogger.com/Content/Images/avitop6.gif
+||psyche.co/_next/static/chunks/SupportBannerHeader.
+||sabcnews.com^*-iabsa-
+||sp-marketing-assets.s3.us-west-2.amazonaws.com^$domain=heraldnet.com
+! ---------- Scroll To Top Buttons ----------
+||dailypioneer.com/images/top.png
+||filmaffinity.com/images/arrow-up2.png
+||jefftucker.org/travels/res/pagetop.svg
+||myip.ms/css/red/images/nav_
+! fanboy_newsletter_specific_block.txt
+||afrik21.africa/wp-content/themes/afrik21/images/news.png
+||app.viralsweep.com^$domain=insidethemagic.net
+||artdaily.cc/subscribe.html
+||beehiiv.com^$domain=marktechpost.com
+||chemistwarehouse.com.au/edm_collector.html
+||ewnews.com/wp-content/themes/dw-focus/newsletter.png
+||form.flodesk.com^$domain=stacker.com
+||forms-content.sg-form.com^$domain=12tomatoes.com
+||forms.aweber.com^$domain=thetruthaboutguns.com
+||gn-flagpoles.api.bbci.co.uk^
+||indiatimes.com/subscriptionhomepage.cms
+||insidesources.com/wp-content/themes/insidesources/js/jquery.fancybox.js
+||loader.wisepops.com^$domain=grist.org
+||newsletter.bdnews24.com^
+||nscreenmedia.com/wp-content/uploads/subscribe-nscreen-newsletter.jpg
+||psyche.co/_next/static/chunks/PopupManager.
+||researchnews.cc/subscribe.html
+||scmp.com/misc/inkstone_sub_widget/
+||subscriptions.cbc.ca^$xmlhttprequest
+||theintercept.com/xbuilder/$script
+||thejewishstar.com/images/enews-ad.png
+||tinypass.com/api/tinypass.min.js$script,domain=thedailybeast.com
+mc.yandex.ru
+fullstory.com
+d2oh4tlt9mrke9.cloudfront.net
+sessioncam.com
+ws.sessioncam.com
+userreplay.net
+script.hotjar.com
+insights.hotjar.com
+clicktale.net
+smartlook.com
+decibelinsight.net
+quantummetric.com
+inspectlet.com
+mouseflow.com
+logrocket.com
+salemove.com
+d10lpsik1i8c69.cloudfront.net
+luckyorange.com
+hoverowl.com
+seevolution.com
+getwisdom.io
+mousestats.com
+overheat.de
+vwo.com
+! fanboy_newsletter_thirdparty.txt
+||api.pico.tools^$third-party
+||app.avada.io^$third-party
+||blink.net/json/$xmlhttprequest
+||buy-au.piano.io/checkout/template/cacheableShow?*&experienceId=*&widget=template
+||confirmsubscription.com^$third-party
+||data.reachplc.com^
+||default.salsalabs.org/api/widget/
+||downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js$script,third-party
+||embeds.beehiiv.com^
+||joinsubtext.com^$subdocument,third-party
+||justone.ai/embed/csd.html$subdocument
+||lightboxcdn.com/vendor/$script,third-party
+||mailerlite.com/js/universal.js
+||maillist-manage.com^$third-party
+||nordiskemedier.dk/remodal/
+||optinly.net^$third-party
+||pico.tools/load/build.js
+||sample.dragonforms.com^$subdocument,third-party
+||secondstreetapp.com/audience_signup_widgets/
+||secondstreetapp.com/embed/$subdocument,third-party
+||sendlane.com^$third-party
+||spinasale.com^$third-party
+||targetbay.com^$third-party
+||wheelioapp.azureedge.net^
+||yourmarketingemail.com^$third-party
+access.soap.riotgames.com
+cdn.valorant-api.com
+content.valorant-api.com
+entitlements.auth.api.riotgames.com
+entitlements.auth.riotgames.com.edgesuite.net
+launcher-website-prod07.ol.epicgames.com
+pd.ap.a.pvp.net
+pd.eu.a.pvp.net
+pd.kr.a.pvp.net
+pd.na.a.pvp.net
+playvalorant.com
+riot-client-api-prod.ap.p.razerzone.com
+riot-client-api-prod.eu.p.razerzone.com
+riot-client-api-prod.kr.p.razerzone.com
+riot-client-api-prod.na.p.razerzone.com
+riot.dualstack.ap-northeast-1.amazon.com
+riot.dualstack.ap-southeast-1.amazon.com
+riot.dualstack.eu-west-1.amazon.com
+riot.dualstack.sa-east-1.amazon.com
+riot.dualstack.us-central-1.amazon.com
+riot.dualstack.us-west-2.amazon.com
+riotcdn.net
+riotgames.com
+riotgames.net
+riotstatic.net
+rso-auth.riotgames.com.edgesuite.net
+rso.api.riotgames.com.edgesuite.net
+valorant-api.com
+||ad.dl.mainpost.de^
+||plx.eispop.com^
+||oddsserve.com^$third-party
+||widget.marktjagd.de^
+||cwi.re^$third-party
+||a.zdg.de^
+||cockpit.symplr.de^$third-party
+||afl-static-cdn.newbiz-prod.stroeerws.de^$third-party
+||embed.contentverticals.de^$third-party
+||ablyft.com^$third-party
+||tikibihu.com^$third-party
+||partners2.das-onlinespiel.de^$third-party
+||intextlinks.idg.zone^$third-party
+||megadeliveryn.com^$third-party
+||hybrid-prd.ad-prd.s.joyn.de^
+||kunner.wiesentbote.de^
+||yieldlove-ad-serving.net^
+||partner.shop.vorwerk.de^$third-party
+||orbidder.otto.de^
+||nur.gratis^$third-party
+||ikjnbvf.de^
+||emmi-findet.de^
+||sra.moresophy.net^
+||app.bidhead.net^$third-party
+||widgets.tracdelight.io^$third-party
+||trbo.com^$third-party
+||adquality.ch^$third-party
+||sv.sheego.de^$third-party
+||azol.de^$third-party
+||twiago.com^$third-party
+||bauernative.com^$third-party
+||adshot.de^$third-party
+||content.acc-hd.de^$third-party
