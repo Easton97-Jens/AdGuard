@@ -36,7 +36,6 @@
 @@||d2rb0pbfo03ng2.cloudfront.net^$important
 # Hetzner
 @@||u345688.your-storagebox.de^$important
-#disney
 # Disney+ Streaming
 @@||cdn.registerdisney.go.com^$important
 @@||dssott.com^$important
@@ -109,6 +108,9 @@
 @@||*.cloudfront.net^$important
 # Game
 @@||*.ea.com^$important
+@@||accounts.ea.com^$important
+@@||account-public-service-prod03.ol.epicgames.com^$important
+@@||*.epicgames.com^$important
 #facebook
 @@||*.facebook.com^$important
 @@||scontent-fra5-2.xx.fbcdn.net^$important
