@@ -179,5 +179,5 @@
 @@||ns2.dropbox.com^$important
 @@||*.ashampoo.com^$important
 @@||www.adblock-tester.com^$important
-@@||*.adblock-tester.com/^$important
-@@||*adblock-tester.com/^$important
+@@||https://adblock-tester.com/^$important
+@@||adblock-tester.com^$important
