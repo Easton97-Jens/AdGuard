@@ -99,11 +99,11 @@
 #@@||device-metrics-us-2.amazon.com^$important
 #@@||images-amazon.com^$important
 #@@||amazonaws.com^$important
-@@||www.amazon.de^$important
+#@@||www.amazon.de^$important
 #@@||mads-eu.amazon.com^$important
 #@@||msh.amazon.co.uk^$important
-@@||*.amazon.de^$important
-@@||*.eu.api.amazonvideo.com^$important
+#@@||*.amazon.de^$important
+#@@||*.eu.api.amazonvideo.com^$important
 #@@||mads.amazon-adsystem.com^$important
 #@@||*.cloudfront.net^$important
 # Game
