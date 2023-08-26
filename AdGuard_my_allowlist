@@ -1,6 +1,14 @@
 #Adguard DNS
 @@||dns.adguard.com^$important
 @@||dns-family.adguard.com^$important
+#Algemiein
+@@||grafana.com^$important
+@@||*.shelly.cloud^$important
+@@|*.dash.row.aiv-cdn.net^$important
+@@||sas.bpsecure.com^$important
+@@||*.fivem.net^$important
+@@||zap-hosting.com^$important
+@@||forum.cfx.re^$important
 # farming simulator
 @@||fedaction-letsplay.de^$important
 # Lets Encrypt
@@ -16,6 +24,7 @@
 @@||ctldl.windowsupdate.com^$important
 @@||client.wns.windows.com^$important
 # Virenscanner
+@@||*.bitdefender.net^$important
 @@||bitdefender.sc.omtrdc.net^$important
 @@||dns.bitdefender.net^$important
 @@||www.rustdesk.com^$important
@@ -34,6 +43,7 @@
 @@||a.nel.cloudflare.com^$important
 @@||chrome.cloudflare-dns.com^$important
 @@||d2rb0pbfo03ng2.cloudfront.net^$important
+@@||*.crowdsec.net^$important
 # Hetzner
 @@||u345688.your-storagebox.de^$important
 # Disney+ Streaming
@@ -87,25 +97,25 @@
 # Sonos
 @@||msmetrics.ws.sonos.com^$important
 # Amazon Prime Video and Amazon CDN
-#@@||dp-gw-na.amazon.com^$important
-#@@||api.eu-west-1.aiv-delivery.net^$important
-#@@||aax-eu.amazon-adsystem.com^$important
-#@@||*.us-east-1.prod.service.minerva.devices.a2z.com^$important
-#@@||eu.api.amazonvideo.com^$important
-#@@||device-metrics-us.amazon.com^$important
-#@@||fls-eu.amazon.com^$important
-#@@||fls-na.amazon.com^$important
-#@@||cloudfront.net^$important
-#@@||device-metrics-us-2.amazon.com^$important
-#@@||images-amazon.com^$important
-#@@||amazonaws.com^$important
-#@@||www.amazon.de^$important
-#@@||mads-eu.amazon.com^$important
-#@@||msh.amazon.co.uk^$important
-#@@||*.amazon.de^$important
-#@@||*.eu.api.amazonvideo.com^$important
-#@@||mads.amazon-adsystem.com^$important
-#@@||*.cloudfront.net^$important
+@@||dp-gw-na.amazon.com^$important
+@@||api.eu-west-1.aiv-delivery.net^$important
+@@||aax-eu.amazon-adsystem.com^$important
+@@||*.us-east-1.prod.service.minerva.devices.a2z.com^$important
+@@||eu.api.amazonvideo.com^$important
+@@||device-metrics-us.amazon.com^$important
+@@||fls-eu.amazon.com^$important
+@@||fls-na.amazon.com^$important
+@@||cloudfront.net^$important
+@@||device-metrics-us-2.amazon.com^$important
+@@||images-amazon.com^$important
+@@||amazonaws.com^$important
+@@||www.amazon.de^$important
+@@||mads-eu.amazon.com^$important
+@@||msh.amazon.co.uk^$important
+@@||*.amazon.de^$important
+@@||*.eu.api.amazonvideo.com^$important
+@@||mads.amazon-adsystem.com^$important
+@@||*.cloudfront.net^$important
 # Game
 @@||*.ea.com^$important
 @@||accounts.ea.com^$important
@@ -119,6 +129,7 @@
 #Email
 @@||incoming-telemetry.thunderbird.net^$important
 #Youtube
+@@||*.googlevideo.com^$important
 @@||youtube-nocookie.com^$important
 @@||i.ytimg.com^$important
 @@||redirector.googlevideo.com^$important
