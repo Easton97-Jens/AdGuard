@@ -156,7 +156,7 @@
 @@|pay.google.com^$important
 @@|payments.google.com^$important
 #Google
-#@@||*.googleapis.com^$important
+@@||*.googleapis.com^$important
 #@@|google.com^$important
 #@@|www.google.com^$important
 # Google
